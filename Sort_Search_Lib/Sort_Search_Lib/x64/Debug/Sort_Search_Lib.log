@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C++ PROJECTS\Sort_Search_Lib\Sort_Search_Lib\main.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sort_Search_Lib.vcxproj -> D:\YAZILIM VE ELEKTRONIK\PROJECTS\C++ PROJECTS\Sort_Search_Lib\x64\Debug\Sort_Search_Lib.exe

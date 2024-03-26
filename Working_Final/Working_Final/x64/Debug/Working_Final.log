@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C++ PROJECTS\Working_Final\Working_Final\main.cpp(73,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Working_Final.vcxproj -> D:\YAZILIM VE ELEKTRONIK\PROJECTS\C++ PROJECTS\Working_Final\x64\Debug\Working_Final.exe

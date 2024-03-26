@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C++ PROJECTS\Template_NameSpace_Scopes_Try_Ornek\Template_NameSpace_Scopes_Try_Ornek\main.cpp(11,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C++ PROJECTS\Template_NameSpace_Scopes_Try_Ornek\Template_NameSpace_Scopes_Try_Ornek\main.cpp(56,63): warning C4305: 'argument': truncation from 'double' to 'v'
+          with
+          [
+              v=float
+          ]
+D:\YAZILIM VE ELEKTRONIK\PROJECTS\C++ PROJECTS\Template_NameSpace_Scopes_Try_Ornek\Template_NameSpace_Scopes_Try_Ornek\main.cpp(57,56): warning C4244: 'argument': conversion from 'double' to 'v', possible loss of data
+          with
+          [
+              v=int
+          ]
+  Template_NameSpace_Scopes_Try_Ornek.vcxproj -> D:\YAZILIM VE ELEKTRONIK\PROJECTS\C++ PROJECTS\Template_NameSpace_Scopes_Try_Ornek\x64\Debug\Template_NameSpace_Scopes_Try_Ornek.exe
